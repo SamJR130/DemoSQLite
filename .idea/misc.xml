@@ -3,6 +3,9 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Users/Student/AndroidStudioProjects/CS333_SQLDemoInCLass/app/src/main/res/layout/activity_add.xml" value="0.234375" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/CS333_SQLDemoInCLass/app/src/main/res/layout/activity_main.xml" value="0.234375" />
+        <entry key="..\:/Users/Student/AndroidStudioProjects/CS333_SQLDemoInCLass/app/src/main/res/layout/list_item.xml" value="0.234375" />
         <entry key="..\:/Users/ryank/android-studio-workspace/DemoSQLite/app/src/main/res/layout/activity_add.xml" value="0.25416666666666665" />
         <entry key="..\:/Users/ryank/android-studio-workspace/DemoSQLite/app/src/main/res/layout/activity_main.xml" value="0.3138969873663751" />
         <entry key="..\:/Users/ryank/android-studio-workspace/DemoSQLite/app/src/main/res/layout/list_item.xml" value="0.25416666666666665" />
